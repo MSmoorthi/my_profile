@@ -29,7 +29,7 @@ $(document).ready(function(){
                 autoplayHoverPause: true,
                 responsive: {
                     0:{
-                        item: 1,
+                        items: 1,
                         nav: false
                     },
                     600:{
@@ -37,7 +37,7 @@ $(document).ready(function(){
                         nav: false
                     },
                     1000:{
-                        item: 3,
+                        items: 3,
                         nav: false
                     }
                 }
