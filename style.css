@@ -382,10 +382,10 @@ section .title::after{
     width: 80%;
 }
 .skills .skills-content .right .css::before{
-    width: 70%;
+    width: 90%;
 }
 .skills .skills-content .right .js::before{
-    width: 15%;
+    width: 25%;
 }
 
 /* team styling */
