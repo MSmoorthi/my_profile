@@ -50,7 +50,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing",{
-        strings: [ "YouTuber" , "Frontend Developer", "Gamer" ],
+        strings: ["3D Designer" , "YouTuber" , "Frontend Developer", "Gamer" ],
         typeSpeed: 100,
         backSpeed: 70,
         loop: true
@@ -58,7 +58,7 @@ $(document).ready(function(){
 
     
     var typed = new Typed(".typing2",{
-        strings: [ "YouTuber" , "Frontend Developer", "Gamer" ],
+        strings: [ "3D Designer" , "YouTuber" , "Frontend Developer", "Gamer" ],
         typeSpeed: 100,
         backSpeed: 70,
         loop: true
